@@ -1,8 +1,6 @@
 ### EXP.NO: 04
 ### DATE: 17.05.2022
-
 # <p align = "center"> A* Path Finding Algorithm for 2D Grid World</p>
-
 ## AIM
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
 
@@ -30,13 +28,13 @@ Pass the values for the grid problem.
 Print the solution.
 
 ## Draw the 2D
-
 <img width="596" alt="Untitled" src="https://user-images.githubusercontent.com/77089276/168858417-c4ec56ad-7ce3-40a6-8f22-6b8b1682c279.png">
  
 ## PROGRAM
 ```python 
 # DEVELOPED BY: VIGNESHWAR S
 # REGISTER NO: 212220230058
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -185,6 +183,7 @@ print(a)
 
 ## OUTPUT:
 <img width="809" alt="4" src="https://user-images.githubusercontent.com/77089276/168858497-eb5f641a-fee9-4788-a134-7b49eb7a6010.PNG">
+
 ## SOLUTION JUSTIFICATION:
 A* combines the advantages of Best-first Search and Uniform Cost Search: ensure to find the optimized path while increasing the algorithm efficiency using heuristics.Complexity in A* Search is that the Algorithm doesn’t produce the shortest path always, as it relies heavily on heuristics / approximations to calculate h.
 
