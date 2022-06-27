@@ -1,4 +1,8 @@
-# A* Path Finding Algorithm for 2D Grid World
+### EXP.NO: 04
+### DATE: 17.05.2022
+
+# <p align = "center"> A* Path Finding Algorithm for 2D Grid World</p>
+
 ## AIM
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
 
@@ -30,6 +34,9 @@ Print the solution.
 <img width="596" alt="Untitled" src="https://user-images.githubusercontent.com/77089276/168858417-c4ec56ad-7ce3-40a6-8f22-6b8b1682c279.png">
  
 ## PROGRAM
+```python 
+# DEVELOPED BY: VIGNESHWAR S
+# REGISTER NO: 212220230058
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
